@@ -17,10 +17,7 @@ Most individuals are bad at choosing random passwords and instead use popular na
 ## Do I need a unique password for every account?
 Yes, it is crucial to have a unique password for every online account you might have. Once passwords get saved due to a security breach, the hackers often keep them in a leaked password database. Protect yourself from having your personal information exposed on the dark web by using the Random Password Generator. It will create random passwords for you to use for each account to never have to recycle your passwords again.
 
-## What are the requirements for a strong password?
-To construct a strong password, use cryptographic entropy to generate random passwords. Unfortunately, human-generated passwords are inherently insecure. Why? Because when humans type on a keyboard, they follow predictable patterns. No matter how brilliant you believe you are, a hacker guessing billions of different passwords will most likely crack it. The password generator generates lengthy and cryptographically safe characters in real time. These characters are created directly on your computer. The devloper does not generate, send, receive, or store passwords. When you want to utilize the power of your computer and its flawless cryptographic capability, the auto password generator is a wonderful tool to employ.
-
-### How does it work?
+## How does it work?
 This random password generator makes securing your account a breeze. You can generate random strong passwords instantly using this software. Here's how it works:
 The password generator lets you choose the length and number of passwords to generate, so that you can choose the password you want to use.
 The password generator's diverse pool of lowercase characters, upper case characters, numbers and special characters allows it to create truly unpredictable random passwords.
