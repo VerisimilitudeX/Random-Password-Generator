@@ -1,3 +1,5 @@
+<a href="https://wakatime.com/badge/github/Verisimilitude11/Random-Password-Generator"><img src="https://wakatime.com/badge/github/Verisimilitude11/Random-Password-Generator.svg" alt="wakatime"></a>
+
 # Random Password Generator
 This software allows you to generate random passwords. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs.
 
